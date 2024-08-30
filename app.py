@@ -1,3 +1,4 @@
+from collections.abc import Mapping
 from flask import Flask, request, render_template
 
 
